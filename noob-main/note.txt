@@ -1,0 +1,37 @@
+<div class="full-wrap">
+    <div class="wrap">
+        
+    </div>
+</div>
+
+
+
+ <section class="wrapper">
+            <div class="left-content">
+                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</h2>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <img src="img/toystory.jpg" alt="">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <img src="img/walle.jpg" alt="">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <img src="img/up.jpg" alt="">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+                <img src="img/nemo.jpg" alt="">
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptatum aliquid officiis maiores cumque facilis similique magni reprehenderit provident debitis vel? Mollitia reiciendis error atque itaque.</p>
+            </div>
+            <div class="right-content">
+                <aside>
+                    <h2>sidebar heading</h2>
+                    <ul>
+                        <li><a href="#">list item</a></li>
+                        <li><a href="#">list item</a></li>
+                        <li><a href="#">list item</a></li>
+                        <li><a href="#">list item</a></li>
+                    </ul>
+                </aside>
+            </div>
+        </section>
